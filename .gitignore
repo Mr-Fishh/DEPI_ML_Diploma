@@ -1,0 +1,12 @@
+# VS Code settings
+.vscode/
+
+# Notebooks temp files
+.notebook/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data files
+data/
